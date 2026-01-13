@@ -23,3 +23,6 @@ Sample Prompts:
 - Minimalist bedroom with warm lighting
 
 
+#This project was build as part of my transition into Generative AI
+
+
